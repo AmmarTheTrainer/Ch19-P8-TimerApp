@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\bin\Debug\Ch19-P8-TimerApp.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\bin\Debug\Ch19-P8-TimerApp.exe
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\bin\Debug\Ch19-P8-TimerApp.pdb
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\obj\Debug\Ch19-P8-TimerApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\obj\Debug\Ch19-P8-TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\obj\Debug\Ch19-P8-TimerApp.exe
+C:\Users\Lenovo\Documents\Projects\Ch19-P8-TimerApp\Ch19-P8-TimerApp\obj\Debug\Ch19-P8-TimerApp.pdb
